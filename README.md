@@ -17,4 +17,4 @@ _Наука о данных_ - это практическая дисципли�
 
 - ### [Визуализация данных](https://github.com/Kolanar/DataScience/blob/master/Data%20visualization/README.md) 
 
-- ### Линейная алгебра 
+- ### [Линейная алгебра](https://github.com/Kolanar/DataScience/blob/master/Linear%20Algebra/README.md) 
