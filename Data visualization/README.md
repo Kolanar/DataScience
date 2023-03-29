@@ -4,7 +4,7 @@
 
 ![img.png](img.png)
 
-**[Столбчатые графики](https://github.com/Kolanar/DataScience/blob/281980d5894a4c80e5a6df550d0d973abe0b0d7c/Data%20visualization/mathlib.py#L8)**
+**[Столбчатые графики](https://github.com/Kolanar/DataScience/blob/281980d5894a4c80e5a6df550d0d973abe0b0d7c/Data%20visualization/mathlib.py#L20)**
 
 Столбчатые графики хорошо подходят для тех случаев, когда требуется показать варьируемость некоторой величины среди
 некого дискретного множества элементов
