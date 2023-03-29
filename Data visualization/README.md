@@ -1,10 +1,10 @@
 # Визуализация данных
 
-**1) Простой линейный график**
+**[Простой линейный график](https://github.com/Kolanar/DataScience/blob/281980d5894a4c80e5a6df550d0d973abe0b0d7c/Data%20visualization/mathlib.py#L8)**
 
 ![img.png](img.png)
 
-## Столбчатые графики
+**[Столбчатые графики](https://github.com/Kolanar/DataScience/blob/281980d5894a4c80e5a6df550d0d973abe0b0d7c/Data%20visualization/mathlib.py#L8)**
 
 Столбчатые графики хорошо подходят для тех случаев, когда требуется показать варьируемость некоторой величины среди
 некого дискретного множества элементов
@@ -16,13 +16,13 @@
 
 ![img_3.png](img_3.png "Использование столбчатого графика для гистограммы")
 
-## Линейные графики
+**[Линейные графики](https://github.com/Kolanar/DataScience/blob/281980d5894a4c80e5a6df550d0d973abe0b0d7c/Data%20visualization/mathlib.py#L58)** 
 
 Линейные графики хорошо подходят для изображения трендов
 
 ![img_4.png](img_4.png)
 
-## Диаграммы рассеяния
+**[Диаграммы рассеяния](https://github.com/Kolanar/DataScience/blob/281980d5894a4c80e5a6df550d0d973abe0b0d7c/Data%20visualization/mathlib.py#L84)**
 
 Диаграмма рассеяния лучше всего подходит для визуализации связи между двумя спаренными множествами данных.
 
