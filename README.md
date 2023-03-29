@@ -15,4 +15,4 @@ _Наука о данных_ - это практическая дисципли�
 
 ****
 
-### [Визуализация данных](./Data visualization/README.md) 
+### - [Визуализация данных](https://github.com/Kolanar/DataScience/blob/master/Data%20visualization/README.md) 
