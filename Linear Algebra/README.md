@@ -6,4 +6,4 @@
 
 ****
 
-- **[Векторы](https://github.com/Kolanar/DataScience/blob/master/%20visualization/README.md)**
+- **[Векторы](https://github.com/Kolanar/DataScience/blob/master/Linear%20Algebra/VECTORS.md)**
