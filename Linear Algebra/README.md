@@ -8,4 +8,4 @@
 
 - **[Векторы](https://github.com/Kolanar/DataScience/blob/master/Linear%20Algebra/VECTORS.md)**
 
-- **[Матрицы]()**
+- **[Матрицы](https://github.com/Kolanar/DataScience/blob/master/Linear%20Algebra/MATRIX.md)**
